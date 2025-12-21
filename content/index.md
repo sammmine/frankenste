@@ -1,4 +1,4 @@
 ---
-title: Welcome to Quartz
+title: A Work In Progress
 ---
-Syncing automatically? Or no?
+Coming soon
