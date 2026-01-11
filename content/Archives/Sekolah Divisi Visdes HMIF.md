@@ -1,5 +1,5 @@
 ---
-title: Tutor Figma Sekolah Divisi Visdes HMIF
+title: Sekolah Divisi Visdes HMIF Lakara
 ---
 Catatan pengenalan divisi dan Figma dari Sekolah Divisi Visual & Design HMIF "Lakara" 2025/2026.
 
