@@ -1,4 +1,4 @@
 ---
 title: Frankenste
 ---
-Coming soon
+![[Kickoff Meeting & Sekolah Divisi Visual & Design.pdf]]
